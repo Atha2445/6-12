@@ -1,0 +1,7 @@
+table,th, td{
+    border: 2px sandybrown;
+    border border-collapse: collapse ;
+}
+th,td{
+    background-color: chartreusess;
+}
